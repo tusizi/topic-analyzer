@@ -1,0 +1,1 @@
+python /home/tusizi/code/wikiextractor/WikiExtractor.py -o data --debug ~/Downloads/enwiki-20160501-pages-articles1.xml-p000000010p000030302
